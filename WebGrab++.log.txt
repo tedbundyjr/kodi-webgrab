@@ -1,0 +1,409 @@
+﻿[  Debug ] WebGrab+Plus/w MDB & REX Postprocess -- version 1.1.1/55.27 -- Jan van Straaten 
+[  Debug ] --------------------------------------------------------------------------------
+[  Debug ] job started at 2/2/2016 11:45:32 PM
+[  Debug ] 
+[  Debug ] reading config file: ./WebGrab++.config.xml
+[  Debug ] loading timezone data
+[  Debug ] embedded timezones source: WGconsole.WG.Common.timezonesdata.txt
+[  Debug ] timezone=UTC+10:00 mapped with timezone_id "Pacific/Guam"
+[  Debug ] WARNING : load cookie fails for yourtv.com.au!
+[  Debug ] Could not find file "/Users/tedbundyjr/Developments/webgrab/yourtv.cookie.txt".
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] WARNING : load cookie fails for yelo.be!
+[  Debug ] Could not find file "/Users/tedbundyjr/Developments/webgrab/yelo.cookies.txt".
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC-03:00 mapped with timezone_id "America/Argentina/Buenos_Aires"
+[  Debug ] timezone=UTC-03:00 mapped with timezone_id "America/Argentina/Buenos_Aires"
+[  Debug ] timezone=UTC-03:00 mapped with timezone_id "America/Argentina/Buenos_Aires"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+13:00 mapped with timezone_id "Pacific/Enderbury"
+[  Debug ] WARNING : load cookie fails for nz.entertainment.yahoo.com!
+[  Debug ] Could not find file "/Users/tedbundyjr/Developments/webgrab/nz.entertainment.cookie.txt".
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] timezone=UTC+08:00 mapped with timezone_id "Asia/Shanghai"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+02:00 mapped with timezone_id "Europe/Athens"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] WARNING : load cookie fails for dstv.com!
+[  Debug ] Could not find file "/Users/tedbundyjr/Developments/webgrab/dstv.cookies.txt".
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Debug ] timezone=UTC+00:00 mapped with timezone_id "Atlantic/Canary"
+[  Debug ] timezone=UTC+01:00 mapped with timezone_id "Europe/Paris"
+[  Error ] error : Timezone=se-SE
+[  Error ] Exception.Message: Culture name se-SE is not supported.
+Parameter name: name
+[  Error ] Exception.StackTrace:   at System.Globalization.CultureInfo..ctor (System.String name, Boolean useUserOverride, Boolean read_only) <0x1061baee0 + 0x0020a> in <filename unknown>:0 
+  at System.Globalization.CultureInfo..ctor (System.String name, Boolean useUserOverride) <0x1061baeb0 + 0x0001d> in <filename unknown>:0 
+  at System.Globalization.CultureInfo..ctor (System.String name) <0x1061bae90 + 0x00016> in <filename unknown>:0 
+  at WGconsole.SiteIni..ctor (System.String ini_file) <0x108a46930 + 0x03652> in <filename unknown>:0 
+[  Error ] see log file for instructions
+[  Debug ] use any of the following cultureinfo names:
+[  Debug ] cultureinfo name:	Details:	
+[  Debug ] ar					Arabic
+[  Debug ] bg					Bulgarian
+[  Debug ] ca					Catalan
+[  Debug ] zh-CHS				Chinese (Simplified) Legacy
+[  Debug ] zh-Hans				Chinese (Simplified)
+[  Debug ] cs					Czech
+[  Debug ] da					Danish
+[  Debug ] de					German
+[  Debug ] el					Greek
+[  Debug ] en					English
+[  Debug ] es					Spanish
+[  Debug ] fi					Finnish
+[  Debug ] fr					French
+[  Debug ] he					Hebrew
+[  Debug ] hu					Hungarian
+[  Debug ] is					Icelandic
+[  Debug ] it					Italian
+[  Debug ] ja					Japanese
+[  Debug ] ko					Korean
+[  Debug ] nl					Dutch
+[  Debug ] no					Norwegian
+[  Debug ] pl					Polish
+[  Debug ] pt					Portuguese
+[  Debug ] rm					Romansh
+[  Debug ] ro					Romanian
+[  Debug ] ru					Russian
+[  Debug ] hr					Croatian
+[  Debug ] sk					Slovak
+[  Debug ] sq					Albanian
+[  Debug ] sv					Swedish
+[  Debug ] th					Thai
+[  Debug ] tr					Turkish
+[  Debug ] ur					Urdu
+[  Debug ] id					Indonesian
+[  Debug ] uk					Ukrainian
+[  Debug ] be					Belarusian
+[  Debug ] sl					Slovenian
+[  Debug ] et					Estonian
+[  Debug ] lv					Latvian
+[  Debug ] lt					Lithuanian
+[  Debug ] tg					Tajik
+[  Debug ] fa					Persian
+[  Debug ] vi					Vietnamese
+[  Debug ] hy					Armenian
+[  Debug ] az					Azerbaijani
+[  Debug ] eu					Basque
+[  Debug ] mk					Macedonian
+[  Debug ] tn					Tswana
+[  Debug ] xh					Xhosa
+[  Debug ] zu					Zulu
+[  Debug ] af					Afrikaans
+[  Debug ] ka					Georgian
+[  Debug ] fo					Faroese
+[  Debug ] hi					Hindi
+[  Debug ] mt					Maltese
+[  Debug ] se					Northern Sami
+[  Debug ] ga					Irish
+[  Debug ] ms					Malay
+[  Debug ] kk					Kazakh
+[  Debug ] ky					Kyrgyz
+[  Debug ] sw					Swahili
+[  Debug ] uz					Uzbek
+[  Debug ] bn					Bengali
+[  Debug ] pa					Punjabi
+[  Debug ] gu					Gujarati
+[  Debug ] or					Oriya
+[  Debug ] ta					Tamil
+[  Debug ] te					Telugu
+[  Debug ] kn					Kannada
+[  Debug ] ml					Malayalam
+[  Debug ] as					Assamese
+[  Debug ] mr					Marathi
+[  Debug ] mn					Mongolian
+[  Debug ] bo					Tibetan
+[  Debug ] cy					Welsh
+[  Debug ] km					Khmer
+[  Debug ] lo					Lao
+[  Debug ] gl					Galician
+[  Debug ] kok					Konkani
+[  Debug ] si					Sinhala
+[  Debug ] am					Amharic
+[  Debug ] tzm					Central Atlas Tamazight
+[  Debug ] ne					Nepali
+[  Debug ] ps					Pashto
+[  Debug ] fil					Filipino
+[  Debug ] ha					Hausa
+[  Debug ] yo					Yoruba
+[  Debug ] nso					Northern Sotho
+[  Debug ] kl					Kalaallisut
+[  Debug ] ig					Igbo
+[  Debug ] ii					Sichuan Yi
+[  Debug ] br					Breton
+[  Debug ] gsw					Swiss German
+[  Debug ] sah					Sakha
+[  Debug ] rw					Kinyarwanda
+[  Debug ] gd					Scottish Gaelic
+[  Debug ] ar-SA				Arabic (Saudi Arabia)
+[  Debug ] bg-BG				Bulgarian (Bulgaria)
+[  Debug ] ca-ES				Catalan (Spain)
+[  Debug ] zh-TW				Chinese (Traditional)
+[  Debug ] cs-CZ				Czech (Czech Republic)
+[  Debug ] da-DK				Danish (Denmark)
+[  Debug ] de-DE				German (Germany)
+[  Debug ] el-GR				Greek (Greece)
+[  Debug ] en-US				English (United States)
+[  Debug ] fi-FI				Finnish (Finland)
+[  Debug ] fr-FR				French (France)
+[  Debug ] he-IL				Hebrew (Israel)
+[  Debug ] hu-HU				Hungarian (Hungary)
+[  Debug ] is-IS				Icelandic (Iceland)
+[  Debug ] it-IT				Italian (Italy)
+[  Debug ] ja-JP				Japanese (Japan)
+[  Debug ] ko-KR				Korean (South Korea)
+[  Debug ] nl-NL				Dutch (Netherlands)
+[  Debug ] nb-NO				Norwegian Bokmål (Norway)
+[  Debug ] pl-PL				Polish (Poland)
+[  Debug ] pt-BR				Portuguese (Brazil)
+[  Debug ] rm-CH				Romansh (Switzerland)
+[  Debug ] ro-RO				Romanian (Romania)
+[  Debug ] ru-RU				Russian (Russia)
+[  Debug ] hr-HR				Croatian (Croatia)
+[  Debug ] sk-SK				Slovak (Slovakia)
+[  Debug ] sq-AL				Albanian (Albania)
+[  Debug ] sv-SE				Swedish (Sweden)
+[  Debug ] th-TH				Thai (Thailand)
+[  Debug ] tr-TR				Turkish (Turkey)
+[  Debug ] ur-PK				Urdu (Pakistan)
+[  Debug ] id-ID				Indonesian (Indonesia)
+[  Debug ] uk-UA				Ukrainian (Ukraine)
+[  Debug ] be-BY				Belarusian (Belarus)
+[  Debug ] sl-SI				Slovenian (Slovenia)
+[  Debug ] et-EE				Estonian (Estonia)
+[  Debug ] lv-LV				Latvian (Latvia)
+[  Debug ] lt-LT				Lithuanian (Lithuania)
+[  Debug ] tg-Cyrl-TJ			Tajik (Cyrillic, Tajikistan)
+[  Debug ] fa-IR				Persian (Iran)
+[  Debug ] vi-VN				Vietnamese (Vietnam)
+[  Debug ] hy-AM				Armenian (Armenia)
+[  Debug ] az-Latn-AZ			Azerbaijani (Latin, Azerbaijan)
+[  Debug ] eu-ES				Basque (Spain)
+[  Debug ] mk-MK				Macedonian (Macedonia)
+[  Debug ] tn-ZA				Tswana (South Africa)
+[  Debug ] xh-ZA				Xhosa (South Africa)
+[  Debug ] zu-ZA				Zulu (South Africa)
+[  Debug ] af-ZA				Afrikaans (South Africa)
+[  Debug ] ka-GE				Georgian (Georgia)
+[  Debug ] fo-FO				Faroese (Faroe Islands)
+[  Debug ] hi-IN				Hindi (India)
+[  Debug ] mt-MT				Maltese (Malta)
+[  Debug ] se-NO				Northern Sami (Norway)
+[  Debug ] sw-KE				Swahili (Kenya)
+[  Debug ] uz-Latn-UZ			Uzbek (Latin, Uzbekistan)
+[  Debug ] bn-IN				Bengali (India)
+[  Debug ] gu-IN				Gujarati (India)
+[  Debug ] or-IN				Oriya (India)
+[  Debug ] ta-IN				Tamil (India)
+[  Debug ] te-IN				Telugu (India)
+[  Debug ] kn-IN				Kannada (India)
+[  Debug ] ml-IN				Malayalam (India)
+[  Debug ] as-IN				Assamese (India)
+[  Debug ] mr-IN				Marathi (India)
+[  Debug ] bo-CN				Tibetan (China)
+[  Debug ] cy-GB				Welsh (United Kingdom)
+[  Debug ] km-KH				Khmer (Cambodia)
+[  Debug ] lo-LA				Lao (Laos)
+[  Debug ] gl-ES				Galician (Spain)
+[  Debug ] kok-IN				Konkani (India)
+[  Debug ] si-LK				Sinhala (Sri Lanka)
+[  Debug ] am-ET				Amharic (Ethiopia)
+[  Debug ] ne-NP				Nepali (Nepal)
+[  Debug ] ps-AF				Pashto (Afghanistan)
+[  Debug ] fil-PH				Filipino (Philippines)
+[  Debug ] ha-Latn-NG			Hausa (Latin, Nigeria)
+[  Debug ] yo-NG				Yoruba (Nigeria)
+[  Debug ] nso-ZA				Northern Sotho (South Africa)
+[  Debug ] kl-GL				Kalaallisut (Greenland)
+[  Debug ] ig-NG				Igbo (Nigeria)
+[  Debug ] ii-CN				Sichuan Yi (China)
+[  Debug ] br-FR				Breton (France)
+[  Debug ] sah-RU				Sakha (Russia)
+[  Debug ] rw-RW				Kinyarwanda (Rwanda)
+[  Debug ] gd-GB				Scottish Gaelic (United Kingdom)
+[  Debug ] ar-IQ				Arabic (Iraq)
+[  Debug ] zh-CN				Chinese (Simplified)
+[  Debug ] de-CH				German (Switzerland)
+[  Debug ] en-GB				English (United Kingdom)
+[  Debug ] es-MX				Spanish (Mexico)
+[  Debug ] fr-BE				French (Belgium)
+[  Debug ] it-CH				Italian (Switzerland)
+[  Debug ] nl-BE				Dutch (Belgium)
+[  Debug ] nn-NO				Norwegian Nynorsk (Norway)
+[  Debug ] pt-PT				Portuguese (Portugal)
+[  Debug ] sv-FI				Swedish (Finland)
+[  Debug ] az-Cyrl-AZ			Azerbaijani (Cyrillic, Azerbaijan)
+[  Debug ] ga-IE				Irish (Ireland)
+[  Debug ] uz-Cyrl-UZ			Uzbek (Cyrillic, Uzbekistan)
+[  Debug ] bn-BD				Bengali (Bangladesh)
+[  Debug ] ar-EG				Arabic (Egypt)
+[  Debug ] zh-HK				Chinese (Traditional, Hong Kong SAR China)
+[  Debug ] de-AT				German (Austria)
+[  Debug ] en-AU				English (Australia)
+[  Debug ] es-ES				Spanish (Spain)
+[  Debug ] fr-CA				French (Canada)
+[  Debug ] se-FI				Northern Sami (Finland)
+[  Debug ] ar-LY				Arabic (Libya)
+[  Debug ] zh-SG				Chinese (Simplified, Singapore)
+[  Debug ] de-LU				German (Luxembourg)
+[  Debug ] en-CA				English (Canada)
+[  Debug ] es-GT				Spanish (Guatemala)
+[  Debug ] fr-CH				French (Switzerland)
+[  Debug ] hr-BA				Croatian (Bosnia and Herzegovina)
+[  Debug ] ar-DZ				Arabic (Algeria)
+[  Debug ] zh-MO				Chinese (Traditional, Macau SAR China)
+[  Debug ] de-LI				German (Liechtenstein)
+[  Debug ] en-NZ				English (New Zealand)
+[  Debug ] es-CR				Spanish (Costa Rica)
+[  Debug ] fr-LU				French (Luxembourg)
+[  Debug ] bs-Latn-BA			Bosnian (Latin, Bosnia and Herzegovina)
+[  Debug ] ar-MA				Arabic (Morocco)
+[  Debug ] en-IE				English (Ireland)
+[  Debug ] es-PA				Spanish (Panama)
+[  Debug ] fr-MC				French (Monaco)
+[  Debug ] sr-Latn-BA			Serbian (Latin, Bosnia and Herzegovina)
+[  Debug ] ar-TN				Arabic (Tunisia)
+[  Debug ] en-ZA				English (South Africa)
+[  Debug ] es-DO				Spanish (Dominican Republic)
+[  Debug ] sr-Cyrl-BA			Serbian (Cyrillic, Bosnia and Herzegovina)
+[  Debug ] ar-OM				Arabic (Oman)
+[  Debug ] en-JM				English (Jamaica)
+[  Debug ] es-VE				Spanish (Venezuela)
+[  Debug ] bs-Cyrl-BA			Bosnian (Cyrillic, Bosnia and Herzegovina)
+[  Debug ] ar-YE				Arabic (Yemen)
+[  Debug ] es-CO				Spanish (Colombia)
+[  Debug ] sr-Latn-RS			Serbian (Latin, Serbia)
+[  Debug ] ar-SY				Arabic (Syria)
+[  Debug ] en-BZ				English (Belize)
+[  Debug ] es-PE				Spanish (Peru)
+[  Debug ] sr-Cyrl-RS			Serbian (Cyrillic, Serbia)
+[  Debug ] ar-JO				Arabic (Jordan)
+[  Debug ] en-TT				English (Trinidad and Tobago)
+[  Debug ] es-AR				Spanish (Argentina)
+[  Debug ] sr-Latn-ME			Serbian (Latin, Montenegro)
+[  Debug ] ar-LB				Arabic (Lebanon)
+[  Debug ] en-ZW				English (Zimbabwe)
+[  Debug ] es-EC				Spanish (Ecuador)
+[  Debug ] sr-Cyrl-ME			Serbian (Cyrillic, Montenegro)
+[  Debug ] ar-KW				Arabic (Kuwait)
+[  Debug ] en-PH				English (Philippines)
+[  Debug ] es-CL				Spanish (Chile)
+[  Debug ] ar-AE				Arabic (United Arab Emirates)
+[  Debug ] es-UY				Spanish (Uruguay)
+[  Debug ] ar-BH				Arabic (Bahrain)
+[  Debug ] es-PY				Spanish (Paraguay)
+[  Debug ] ar-QA				Arabic (Qatar)
+[  Debug ] en-IN				English (India)
+[  Debug ] es-BO				Spanish (Bolivia)
+[  Debug ] es-SV				Spanish (El Salvador)
+[  Debug ] en-SG				English (Singapore)
+[  Debug ] es-HN				Spanish (Honduras)
+[  Debug ] es-NI				Spanish (Nicaragua)
+[  Debug ] es-PR				Spanish (Puerto Rico)
+[  Debug ] es-US				Spanish (United States)
+[  Debug ] bs-Cyrl				Bosnian (Cyrillic)
+[  Debug ] bs-Latn				Bosnian (Latin)
+[  Debug ] sr-Cyrl				Serbian (Cyrillic)
+[  Debug ] sr-Latn				Serbian (Latin)
+[  Debug ] az-Cyrl				Azerbaijani (Cyrillic)
+[  Debug ] zh					Chinese (Simplified)
+[  Debug ] nn					Norwegian Nynorsk
+[  Debug ] bs					Bosnian
+[  Debug ] az-Latn				Azerbaijani (Latin)
+[  Debug ] uz-Cyrl				Uzbek (Cyrillic)
+[  Debug ] mn-Cyrl				Mongolian (Cyrillic)
+[  Debug ] zh-Hant				Chinese (Traditional)
+[  Debug ] zh-CHT				Chinese (Traditional) Legacy
+[  Debug ] nb					Norwegian Bokmål
+[  Debug ] sr					Serbian
+[  Debug ] tg-Cyrl				Tajik (Cyrillic)
+[  Debug ] uz-Latn				Uzbek (Latin)
+[  Debug ] tzm-Latn			Central Atlas Tamazight (Latin)
+[  Debug ] ha-Latn				Hausa (Latin)
+[  Debug ] Correct cultureinfo=se-SE in ./ontv.se.ini
+[  Error ] execution stopped
