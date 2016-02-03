@@ -440,4 +440,9 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="tvguide.co.uk" site_id="263" xmltv_id="Sky Sports News">Sky Sports News</channel>
     <channel update="i" site="tvguide.co.uk" site_id="666" xmltv_id="Sky Sports News HD">Sky Sports News HD</channel>
     <channel update="i" site="tvguide.co.uk" site_id="706" xmltv_id="Liverpool FC TV">Liverpool FC TV</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="489" xmltv_id="Sky Movies Premiere HD">Sky Movies Premiere HD</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="378" xmltv_id="Movies 24">Movies 24</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="453" xmltv_id="True Movies">True Movies</channel>
+    <channel update="i" site="tvguide.co.uk" site_id="499" xmltv_id="True Movies 2">True Movies 2</channel>
+    
 </settings>
