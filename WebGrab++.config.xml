@@ -133,6 +133,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="astro.com.my" site_id="50" xmltv_id="KBS World">KBS World</channel>
     
     <!-- indonesia -->
+    <channel update="i" site="jkt.firstmedia.com" site_id="kbs" xmltv_id="KBS">KBS</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="trans-7" xmltv_id="TRANS 7">TRANS 7</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="trans-tv" xmltv_id="TRANS TV">TRANS TV</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="indosiar" xmltv_id="INDOSIAR">INDOSIAR</channel>
