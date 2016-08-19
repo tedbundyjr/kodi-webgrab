@@ -19,7 +19,7 @@ v or verify   verifies the result following a channel update
 w or wget     use wget as grab engine (might improve site recognition in rare cases)
 Note that modes can be added in one line, separated by comma's or spaces, or both. 
 -->
-  <mode></mode>
+  <mode>debug</mode>
   
   <!-- postprocess:
   Optional , specifies which of the available postprocesses should run.
@@ -133,6 +133,7 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="astro.com.my" site_id="50" xmltv_id="KBS World">KBS World</channel>
     
     <!-- indonesia -->
+    <channel update="i" site="jkt.firstmedia.com" site_id="antv" xmltv_id="ANTV">ANTV</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="kbs" xmltv_id="KBS">KBS</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="trans-7" xmltv_id="TRANS 7">TRANS 7</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="trans-tv" xmltv_id="TRANS TV">TRANS TV</channel>
@@ -146,6 +147,8 @@ WebGrab+Plus uses the xmltv_id to identify a channel in an existing xmltv file.
     <channel update="i" site="jkt.firstmedia.com" site_id="bloomberg-television" xmltv_id="BLOOMBERG TELEVISION">BLOOMBERG TELEVISION</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="nhk-world" xmltv_id="NHK WORLD">NHK WORLD</channel>
     <channel update="i" site="jkt.firstmedia.com" site_id="cartoon-network" xmltv_id="CARTOON NETWORK">CARTOON NETWORK</channel>
+    <channel update="i" site="jkt.firstmedia.com" site_id="eurosport" xmltv_id="EUROSPORT">EUROSPORT</channel>
+    <channel update="i" site="jkt.firstmedia.com" site_id="eurosport-hd" xmltv_id="EUROSPORT HD">EUROSPORT HD</channel>
 
     <!-- uk -->
     <channel update="i" site="tvguide.co.uk" site_id="489" xmltv_id="Sky Movies Premiere HD">Sky Movies Premiere HD</channel>
